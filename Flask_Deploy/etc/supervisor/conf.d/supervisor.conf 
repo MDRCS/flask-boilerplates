@@ -1,0 +1,4 @@
+[program:webapp]
+command=python gserver.py
+directory=/home/deploy/webapp
+user=deploy

@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: Flask-GZip
+Version: 0.1
+Summary: Flask extension to allow easy GZip compressing of web pagess
+Home-page: UNKNOWN
+Author: Jack Stouffer
+Author-email: example@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: any
